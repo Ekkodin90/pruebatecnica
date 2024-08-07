@@ -70,5 +70,4 @@ Para instalar y utilizar la prueba técnica se requiere de los siguientes progra
 - Composer
 - XAMPP
 - Laravel
-
-Se debe de descargar el proyecto como archivo ZIP y  
+- Visual Studio Code
