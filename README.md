@@ -65,3 +65,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # Prueba-Tecnica
+Para instalar y utilizar la prueba técnica se requiere de los siguientes programas
+- Git
+- Composer
+- XAMPP
+- Laravel
+
+Se debe de descargar el proyecto como archivo ZIP y  
